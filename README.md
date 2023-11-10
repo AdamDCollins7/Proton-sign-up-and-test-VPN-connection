@@ -1,12 +1,22 @@
 <h1>Proton Sign up and Test VPN Connection</h1>
 
 
+
+![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/bc6e3482-879d-4301-844d-081646b1d5b6)
+
+
+<p>
+This is the starting ip address before we go on to set up our VPN
+</p>
+<br />
+
 ![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/3d9001d8-47fd-4c6c-8357-c10bb582c979)
 
 
 <p>
 I used Proton as my free VPN and downloaded the windows version
 </p>
+
 <br />
 
 ![image](https://github.com/AdamDCollins7/Create-Virtual-Machine-in-Azure/assets/99514625/99537ebd-c1ab-4c64-b1fa-0304ce9c2185)
